@@ -1,0 +1,30 @@
+Sources:
+What is Julia?
+
+[1]	https://julialang.org/
+[2]	https://cs.nyu.edu/courses/spring12/CSCI-UA.0421-001/index.html
+[3]	https://docs.julialang.org/en/stable/manual/introduction/ 
+[4]	https://en.wikipedia.org/wiki/Julia_(programming_language)
+[5]	https://www.tiobe.com/tiobe-index/
+[6]	https://www.sitepoint.com/typing-versus-dynamic-typing/ 
+[7]	https://juliacomputing.com/blog/2017/02/03/newsletter.html 
+
+python
+{
+[8]	http://groups.engin.umd.umich.edu/CIS/course.des/cis400/python/python.html 
+[9]	http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html
+[10]	https://medium.com/@mindfiresolutions.usa/advantages-and-disadvantages-of-python-programming-language-fd0b394f2121
+
+}
+C programming
+{
+[11]	http://groups.engin.umd.umich.edu/CIS/course.des/cis400/c/c.html
+[12]	https://www.invensis.net/blog/it/benefits-of-c-c-plus-plus-over-other-programming-languages/
+[13]	http://www.techcrashcourse.com/2015/11/Disadvantages-and-limitations-of-C-Programming-languages.html
+}
+
+Julia comparisons
+{
+[14]	https://docs.julialang.org/en/stable/manual/noteworthy-differences/
+[15]	https://www.ibm.com/developerworks/community/blogs/jfp/entry/A_Comparison_Of_C_Julia_Python_Numba_Cython_Scipy_and_BLAS_on_LU_Factorization?lang=en
+}
